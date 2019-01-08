@@ -6,3 +6,5 @@ It is cold and dry, but everything is my favorite color.
 Gitkraken is being used as GUI-based version control tool
 
 We'll add more information to our survey document
+
+Needed to make quick edits on website. Let's ensure we ca ndo this wherever we want
